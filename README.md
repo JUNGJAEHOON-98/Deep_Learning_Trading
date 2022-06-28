@@ -1,4 +1,3 @@
-# vscode-git
-vscode git을 사용하기 위한 저장소 
+# 밑바다부터 시작하는 딥러닝 
 
-Visual Studio Code에서 github를 사용하기 위한 저장소입니다. 
+밑바닥부터 시작하는 딥러닝을 공부한 자료를 올려 놓은 저장소 입니다.  
