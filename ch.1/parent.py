@@ -1,6 +1,3 @@
-from sys import ps1
-
-
 class Parent:
     def __init__(self, p1, p2) -> None:
         self.p1 = p1
